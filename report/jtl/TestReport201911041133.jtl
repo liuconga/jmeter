@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testResults version="1.2">
-<httpSample t="51" it="0" lt="0" ct="51" ts="1572881622979" s="false" lb="HTTP请求-查询" rc="Non HTTP response code: org.apache.http.conn.HttpHostConnectException" rm="Non HTTP response message: Connect to 192.168.8.100:8000 [/192.168.8.100] failed: 拒绝连接 (Connection refused)" tn="线程组 1-1" dt="text" by="2633" sby="0" ng="1" na="1">
-  <java.net.URL>http://192.168.8.100:8000/api/departments/</java.net.URL>
-</httpSample>
-
-</testResults>
